@@ -1,4 +1,4 @@
-# Quick Sort
+<h1 align="center">Quick Sort</h1>
 
 ## Overview
 <p><b>Quick Sort</b> is a widely-used divide-and-conquer sorting algorithm.
@@ -12,6 +12,8 @@ It is known for being
 -   ❌ Not stable (may reorder equal elements)
 
 -   ⚠️ Worst-case performance O(n²) if pivot selection is poor
+
+<a href="/src/main.py">Check out for source code</a>
 
 ## ⚙️ How Quick Sort Works
 
@@ -60,7 +62,7 @@ Comine: ```[3,9,10,27,38,43,82]```
 **Space Complexity:** O(log n) due to recursion stack(in-place sorting)
 
 
-
+<!--
 ## 📁 Python Implementation
 ```python
 # %% [markdown]
@@ -169,7 +171,7 @@ if __name__ == "__main__":
 
 ```
 
-
+-->
 
 
 
